@@ -1,0 +1,4 @@
+name: codeigniter
+recipe: lamp
+config:
+  webroot: .
